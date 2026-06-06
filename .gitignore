@@ -1,0 +1,10 @@
+.env
+node_modules/
+cache/
+artifacts/
+__pycache__/
+*.pyc
+.venv/
+data_pipeline/output/*.csv
+data_pipeline/output/*.json
+deployment.json
